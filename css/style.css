@@ -1,0 +1,55 @@
+body {
+	background-color: #f0f0f0;
+}
+
+.resume-section {
+	padding: 10px;
+}
+
+.resume-card {
+	padding: 10px;
+	background-color: #FFFFFF;
+	min-height: 300px;
+}
+
+.detail {
+	margin-bottom: 10px;
+}
+
+.contact-details .detail .icon {
+	display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.contact-details .detail .info {
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 13px;
+}
+
+.background-details .detail .icon {
+	display: table-cell;
+    vertical-align: top;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.background-details .detail .info {
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 13px;
+}
+
+.background-details .work-experience-detail {
+	margin-bottom: 20px;
+}
+
+.background-details .work-experience-detail p {
+	margin:0px;
+}
+
+.section-title {
+	margin-top: 0px;
+}

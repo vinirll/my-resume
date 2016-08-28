@@ -1,0 +1,130 @@
+{
+  "awards" : [ {
+    "awarder" : "Company",
+    "date" : "2014-11-01",
+    "summary" : "There is no spoon.",
+    "title" : "Award"
+  } ],
+  "basics" : {
+    "email" : "vinirll@gmail.com",
+    "label" : "Programmer",
+    "location" : {
+      "address" : "Rua Professor Sousa Barros, Vila Guarani, Zona Sul",
+      "city" : "São Paulo",
+      "countryCode" : "BR",
+      "postalCode" : "04307-100",
+      "region" : "SP"
+    },
+    "name" : "Vinicius Rodrigues Lima",
+    "phone" : "(11) 97117-1353",
+    "picture" : "https://avatars2.githubusercontent.com/u/2252787?v=3&s=460",
+    "profiles" : [
+    {
+      "network" : "Github",
+      "url" : "https://github.com/vinirll",
+      "username" : "Vinicius Lima",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/120px-Octicons-mark-github.svg.png"
+    },
+    {
+      "network" : "Linkedin",
+      "url" : "https://br.linkedin.com/in/viniciusrlima",
+      "username" : "Vinicius Lima",
+      "icon": "https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png"
+    }],
+    "summary" : "I'll positively impact the world we live! An entrepreneur at soul, and a software engineer who is concerned with the deadlines without losing the art and software quality.",
+    "website" : "http://www.viniciusrodrigueslima.com.br"
+  },
+  "education" : [ {
+    "area" : "Software Development",
+    "courses" : [ "DB1101 - Basic SQL" ],
+    "endDate" : "2013-01-01",
+    "gpa" : "4.0",
+    "institution" : "University",
+    "startDate" : "2011-01-01",
+    "studyType" : "Bachelor"
+  } ],
+  "interests" : [ {
+    "keywords" : [ "Ferrets", "Unicorns" ],
+    "name" : "Wildlife"
+  } ],
+  "languages" : [ {
+    "id" : 1,
+    "level" : "Fluency",
+    "name" : "English"
+  }, {
+    "id" : 2,
+    "level" : "Native speaker",
+    "name" : "Portuguese"
+  } ],
+  "publications" : [ {
+    "name" : "Publication",
+    "publisher" : "Company",
+    "releaseDate" : "2014-10-01",
+    "summary" : "Description...",
+    "website" : "http://publication.com"
+  } ],
+  "references" : [ {
+    "name" : "Jane Doe",
+    "reference" : "Reference..."
+  } ],
+  "skills" : [ {
+    "keywords" : [ "HTML", "CSS", "Javascript" ],
+    "level" : "Master",
+    "name" : "Web Development"
+  } ],
+  "volunteer" : [ {
+    "endDate" : "2013-01-01",
+    "highlights" : [ "Awarded 'Volunteer of the Month'" ],
+    "organization" : "Organization",
+    "position" : "Volunteer",
+    "startDate" : "2012-01-01",
+    "summary" : "Description...",
+    "website" : "http://organization.com/"
+  } ],
+  "work" : [
+  {
+    "company" : "Innovatino Lab - Hospital Israelita Albert Einstein",
+    "endDate" : "Present",
+    "highlights" : [ "Served as backend (Node) and mobile (Android) lead developer on innovation lab projects","Designed, implemented RESTful API (Node and PHP) for lots of mobile and browser apps","Delivered lectures on Android and built repos allowing team to get started fast by reusable modules.","Wrote many unit tests, e2e tests, api tests (Android: JUnit, Mockito, espresso. )","Tools used in the projects: RxJava, Retrofit, Butterknife, UIL, Dagger2" ],
+    "position" : "Specialist",
+    "startDate" : "01-07-2016",
+    "summary" : "A Lab turn innovative ideas into real!",
+    "website" : "https://einstein.br"
+  },
+  {
+    "company" : "Innovatino Lab - Hospital Israelita Albert Einstein",
+    "endDate" : "01-07-2016",
+    "highlights" : [ "Wrote many telemedicine (camera based) android apps", "Mentored junior developers on Java (Android), JavaScript (Angular and Node) and PHP (Laravel)","Deployed many applications that rely on main amazon services: EC2, ElasticBeanstalk, S3, Route53, Lambda, SNS, SES" ],
+    "position" : "Senior Application Development Analyst",
+    "startDate" : "01-03-2015",
+    "summary" : "A Lab turn innovative ideas into real!",
+    "website" : "https://einstein.br"
+  },
+  {
+    "company" : "Weggo",
+    "endDate" : "Present",
+    "highlights" : [ "Pedágios Brasil Android Application - 20k users from Play Store", "Vanzeiro Android Application - Delivering van providers request from customers"],
+    "position" : "Co-Founder",
+    "startDate" : "01-06-2015",
+    "summary" : "Marketplace that aims transform and boost rental vans market.",
+    "website" : "https://www.weggo.com"
+  },
+  {
+    "company" : "ZoeMob",
+    "endDate" : "01-03-2015",
+    "highlights" : [ "Refactored the main engine of acquiring location from Android applications.", "Created from scratch the most recent ZoeMob web panel (Single-Page Application based on Javascript with Backbone)","Served also as backend developer ( Proprietary framework using PHP, MySQL, REDIS, CASSANDRA and Memcache )","Wrote many unit and integration tests ( for both Android and Backend )" ],
+    "position" : "Fullstack Developer",
+    "startDate" : "01-02-2014",
+    "summary" : "A 10 million users startup that provides an assistance tool that fits in the palm of your hand and helps dads, moms, and kids to locate each other, get organized, and communicate.!",
+    "website" : "https://www.zoemob.com"
+  },
+  {
+    "company" : "Fotofeliz",
+    "endDate" : "01-08-2012",
+    "highlights" : ["Backend and Frontend developer","Responsible for communication between the print service providers in Brazil with the aim of keeping the production process integrated with the e-commerce system.", "Tools: PHP, Java (Android) and Javascript" ],
+    "position" : "Internship - Berlin, Germany",
+    "startDate" : "01-01-2012",
+    "summary" : "",
+    "website" : "https://www.zoemob.com"
+  }]
+}

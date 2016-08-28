@@ -1,0 +1,28 @@
+{
+  "name": "resume-viewer",
+  "version": "0.0.1",
+  "description": "Resume Viewer",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "babel-preset-react": "^6.11.1",
+    "halogen": "^0.2.0",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "react-icons": "^2.2.1"
+  },
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vinirll@bitbucket.org/vinirll/vinicius-resume.git"
+  },
+  "author": "Vinicius Lima",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vinirll/vinicius-resume#readme"
+}
