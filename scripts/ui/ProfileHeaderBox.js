@@ -19,7 +19,7 @@ var ProfileHeaderBox = React.createClass({
         <div>
           <img className="img-responsive center-block img-circle" width="100" height="100" src={this.props.basics.picture} />
           <h4 className="text-capitalize text-center"><strong>{this.props.basics.name}</strong></h4>
-          <p className="text-uppercase text-center"><small>Programmer</small></p>
+          <p className="text-uppercase text-center"><small>{this.props.basics.label}</small></p>
           <hr/>
         </div>
       );

@@ -34,7 +34,7 @@ var ResumeBox = React.createClass({
 
       backgroundContent = (
         <div className="resume-card">
-          <BackgroundBox education={this.state.data.education} works={this.state.data.work} basics={this.state.data.basics} />
+          <BackgroundBox courses={this.state.data.courses} education={this.state.data.education} works={this.state.data.work} basics={this.state.data.basics} />
         </div>
       );
     }

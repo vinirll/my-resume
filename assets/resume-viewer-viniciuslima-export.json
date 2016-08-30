@@ -1,10 +1,4 @@
 {
-  "awards" : [ {
-    "awarder" : "Company",
-    "date" : "2014-11-01",
-    "summary" : "There is no spoon.",
-    "title" : "Award"
-  } ],
   "basics" : {
     "email" : "vinirll@gmail.com",
     "label" : "Programmer",
@@ -34,19 +28,63 @@
     "summary" : "I'll positively impact the world we live! An entrepreneur at soul, and a software engineer who is concerned with the deadlines without losing the art and software quality.",
     "website" : "http://www.viniciusrodrigueslima.com.br"
   },
-  "education" : [ {
-    "area" : "Software Development",
+  "education" : [{
+    "area" : "B.S. in Computer Science",
     "courses" : [ "DB1101 - Basic SQL" ],
-    "endDate" : "2013-01-01",
+    "endDate" : "DEC 2013",
     "gpa" : "4.0",
-    "institution" : "University",
-    "startDate" : "2011-01-01",
+    "institution" : "Federal University of São Carlos",
+    "startDate" : "JAN 2008",
     "studyType" : "Bachelor"
-  } ],
-  "interests" : [ {
-    "keywords" : [ "Ferrets", "Unicorns" ],
-    "name" : "Wildlife"
-  } ],
+  },
+  {
+    "area" : "Computer Programmer",
+    "courses" : [ "DB1101 - Basic SQL" ],
+    "endDate" : "DEC 2007",
+    "gpa" : "4.0",
+    "institution" : "SENAC",
+    "startDate" : "JAN 2007",
+    "studyType" : "Bachelor"
+  },
+  {
+    "area" : "IT Technician",
+    "courses" : [ "DB1101 - Basic SQL" ],
+    "endDate" : "DEC 2005",
+    "gpa" : "4.0",
+    "institution" : "CETEC",
+    "startDate" : "FEB 2003",
+    "studyType" : "Bachelor"
+  }],
+  "courses": [{
+    "name":"HIPUC - Health Innovation Bootcamp",
+    "description":"A program focused on the use of design thinking, entrepreneurship, and applying Stanford Biodesign methodologies to develop healthcare solutions for real people with real needs.",
+    "url":"http://hipuc.com/",
+    "institution" : "PUCPR & Stanford"
+  },
+  {
+    "name":"Professional Training Summer Course in Health Informatics",
+    "description":"",
+    "url":"http://www.edumed.org.br/cursos/CursoVerao2016.html",
+    "institution" : "Institute EduMed"
+  },
+  {
+    "name":"Programming Mobile Applications for Android Handheld Systems",
+    "description":"Cover the fundamental programming principles, software architecture and user experience considerations underlying handheld software applications and their development environments.",
+    "url":"https://www.coursera.org/verify/RNBEB7K9GM",
+    "institution" : "University of Maryland"
+  },
+  {
+    "name":"Pattern-Oriented Software Architectures: Programming Mobile Services for Android Handheld Systems",
+    "description":"Understand how to develop concurrent and networked software for mobile devices that connect to cloud computing platforms and all software patterns behind it.",
+    "url":"http://coursera.org/verify/S5X2296NKT",
+    "institution" : "Vanderbilt University"
+  },
+  {
+    "name":"Programming Cloud Services for Android Handheld Systems",
+    "description":"How to connect Android mobile devices to clouds via the use of object-oriented design techniques, Java programming language features, Jetty middleware, Java Servlets, the Java Spring Framework, and cloud computing platforms, such as Google App Engine",
+    "url":"https://www.coursera.org/verify/7XQVXQXYXG",
+    "institution" : "Vanderbilt University"
+  }],
   "languages" : [ {
     "id" : 1,
     "level" : "Fluency",
@@ -63,23 +101,10 @@
     "summary" : "Description...",
     "website" : "http://publication.com"
   } ],
-  "references" : [ {
-    "name" : "Jane Doe",
-    "reference" : "Reference..."
-  } ],
   "skills" : [ {
     "keywords" : [ "HTML", "CSS", "Javascript" ],
     "level" : "Master",
     "name" : "Web Development"
-  } ],
-  "volunteer" : [ {
-    "endDate" : "2013-01-01",
-    "highlights" : [ "Awarded 'Volunteer of the Month'" ],
-    "organization" : "Organization",
-    "position" : "Volunteer",
-    "startDate" : "2012-01-01",
-    "summary" : "Description...",
-    "website" : "http://organization.com/"
   } ],
   "work" : [
   {
@@ -88,7 +113,7 @@
     "highlights" : [ "Served as backend (Node) and mobile (Android) lead developer on innovation lab projects","Designed, implemented RESTful API (Node and PHP) for lots of mobile and browser apps","Delivered lectures on Android and built repos allowing team to get started fast by reusable modules.","Wrote many unit tests, e2e tests, api tests (Android: JUnit, Mockito, espresso. )","Tools used in the projects: RxJava, Retrofit, Butterknife, UIL, Dagger2" ],
     "position" : "Specialist",
     "startDate" : "01-07-2016",
-    "summary" : "A Lab turn innovative ideas into real!",
+    "summary" : "A laboratory formed by engineers, designers, doctors and business people to transform innovative ideas of Albert Einstein hospital in reality!",
     "website" : "https://einstein.br"
   },
   {
@@ -97,7 +122,7 @@
     "highlights" : [ "Wrote many telemedicine (camera based) android apps", "Mentored junior developers on Java (Android), JavaScript (Angular and Node) and PHP (Laravel)","Deployed many applications that rely on main amazon services: EC2, ElasticBeanstalk, S3, Route53, Lambda, SNS, SES" ],
     "position" : "Senior Application Development Analyst",
     "startDate" : "01-03-2015",
-    "summary" : "A Lab turn innovative ideas into real!",
+    "summary" : "A laboratory formed by engineers, designers, doctors and business people to transform innovative ideas of Albert Einstein hospital in reality!",
     "website" : "https://einstein.br"
   },
   {
