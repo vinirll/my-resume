@@ -2,7 +2,7 @@
 
 ##### steps to use:
 
-- The JSON in ./assets folder is imported into a Firebase Database. Create your own account and give this database only read permissions (otherwise someone else can edit your stuffs).
+- The JSON in ./assets folder is imported into a Firebase Database. Create your own account and give this database only read permissions (otherwise someone else can edit your stuff).
 
 - Install my application dependencies
 ```sh
