@@ -2,6 +2,8 @@
 
 ##### steps to use:
 
+- The JSON in ./assets folder is imported into a Firebase Database. Create your own account and give this database only read permissions (otherwise someone else can edit your stuffs).
+
 - Install my application dependencies
 ```sh
 $ npm install
