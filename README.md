@@ -12,12 +12,12 @@ $ npm install
 $ npm install http-server -g
 ```
 
-- Install Browserify (Frm docs: lets you require('modules') in the browser by bundling up all of your dependencies)
+- Install Browserify (From docs: lets you require('modules') in the browser by bundling up all of your dependencies)
 ```sh
 $ npm install -g browserify
 ```
 
-- To build (browserify) and server the web app using http-server, use the following command:
+- To build (browserify) and serve the web app using http-server, use the following command:
 ```sh
 browserify -t [ babelify --presets [ react ] ] scripts/app.js -o build/app.js && http-server
 ```
