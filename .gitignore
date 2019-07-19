@@ -1,2 +1,6 @@
-bower_components
 node_modules
+dist
+.idea/misc.xml
+.idea/modules.xml
+.idea/my-resume.iml
+.idea/workspace.xml

@@ -1,10 +1,8 @@
-var Loader = require('halogen/PulseLoader');
 var React = require('react');
 var MdPhone = require('react-icons/lib/md/phone');
 var MdLocationOn = require('react-icons/lib/md/location-on');
 var MdEmail = require('react-icons/lib/md/email');
 var MdLanguage = require('react-icons/lib/md/language');
-var GoMarkGithub = require('react-icons/lib/go/mark-github');
 
 
 var ProfileBodyBox = React.createClass({
@@ -12,7 +10,6 @@ var ProfileBodyBox = React.createClass({
     var languages = this.props.languages;
     var basics = this.props.basics;
     var profiles = basics.profiles;
-    var githubLink = "https://github.com/vinirll";
 
     var languagesNode = languages.map(function(language,index) {
       return (
@@ -29,7 +26,7 @@ var ProfileBodyBox = React.createClass({
           <span className="info"><a target="_blank" href={profile.url}>{profile.url}</a></span>
         </div>
       );
-    })
+    });
 
     return  (
       <div className="contact-details">

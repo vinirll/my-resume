@@ -1,9 +1,7 @@
-var Loader = require('halogen/PulseLoader');
-var React = require('react');
+const React = require('react');
 
-var ProfileHeaderBox = React.createClass({
+let ProfileHeaderBox = React.createClass({
   render: function() {
-    var content;
 
     if (this.props.basics === null)
     {
@@ -24,7 +22,6 @@ var ProfileHeaderBox = React.createClass({
         </div>
       );
     }
-
   }
 });
 
